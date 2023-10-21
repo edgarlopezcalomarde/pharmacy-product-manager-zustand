@@ -1,8 +1,13 @@
-# React + Vite
+(ESP)
+# React + Zustand
+## Descripcion 
+En este proyecto se muestra un ejemplo de como manejar el estado global de tu aplicacion hecha con react mediante la libreria zustand.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+(ENG)
+# React + Zustand
+## Description 
+This project shows an example of how to manage the global state of your react application using the zustand library.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
